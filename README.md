@@ -1,1 +1,2 @@
-# LogoGenn
+# LogoGenn 
+Simply put in the answers you wish the request to fullfill and u wil be able to crerat a simple logo, will teka your responses and generate a svg file that opens in browser. u then have acsess to download and use the logo. must us ethe npm i inquirer and node index.js to run th eapplication.
